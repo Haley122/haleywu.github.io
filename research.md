@@ -27,13 +27,13 @@ The working principle of DTS is based on Raman scattering, which utilizes the re
 
 
 ### <ins>Publications
-1. __H. Wu__, H. F. Duan, Wallace Lai, K. Zhu, X. Cheng, H. Yin, B. Zhou, C. C. Lai, C. Lu, and X. L. Ding. “Leveraging optical communication fiber and AI for distributed water pipe leak detection.” IEEE Communications Magazine, to appear.  <a href="https://haleywuhuan.github.io/assets/paper1.pdf" target="_blank"> full paper</a>
+1. __H. Wu__, H. F. Duan, Wallace Lai, K. Zhu, X. Cheng, H. Yin, B. Zhou, C. C. Lai, C. Lu, and X. L. Ding. “Leveraging optical communication fiber and AI for distributed water pipe leak detection.” IEEE Communications Magazine, to appear.  <a href="https://haleywuhuan.github.io/profile/assets/paper1.pdf" target="_blank"> full paper</a>
 
-2. H. Zheng, __H. Wu*__, C. Y. Leong, Y. Y. Wang, X. L. Shen, Z. Fang, X. Chen, J. X. Cui, D. J. Ma, Y. Miao, L. Zhou, M. Yan, J. Sun, H. Y. Tam, X. L. Ding, C. Lu. “Enhanced quasi-distributed accelerometer array based on phase-OTDR and ultraweak fiber Bragg grating.” IEEE Sensors Journal, early access, doi: 10.1109/JSEN.2023.3288971.
+2. H. Zheng, __H. Wu*__, C. Y. Leong, Y. Y. Wang, X. L. Shen, Z. Fang, X. Chen, J. X. Cui, D. J. Ma, Y. Miao, L. Zhou, M. Yan, J. Sun, H. Y. Tam, X. L. Ding, C. Lu. “Enhanced quasi-distributed accelerometer array based on phase-OTDR and ultraweak fiber Bragg grating.” IEEE Sensors Journal, early access, doi: 10.1109/JSEN.2023.3288971.<a href="https://haleywuhuan.github.io/profile/assets/paper1.pdf" target="_blank"> full paper</a>
 
-3. H. Zheng+, __H. Wu+*__, D. J. Ma, Y. Miao, L. Zhou, M. Yan, J. Sun, C. Y. Yu, X. L. Ding, C. Lu. “Novel mining conveyor monitoring system based on quasi-distributed optical fiber accelerometer array and self-supervised learning.” Under review.
+3. H. Zheng+, __H. Wu+*__, D. J. Ma, Y. Miao, L. Zhou, M. Yan, J. Sun, C. Y. Yu, X. L. Ding, C. Lu. “Novel mining conveyor monitoring system based on quasi-distributed optical fiber accelerometer array and self-supervised learning.” Under review.<a href="https://haleywuhuan.github.io/profile/assets/paper1.pdf" target="_blank"> full paper</a>
 
-4. Y. Y. Wang, H. Zheng, __H. Wu__, D. M. Huang, C. Y. Yu, and C. Lu. “Coherent OTDR with large dynamic range based on double-sideband linear frequency modulation pulse.” Optics Express, 31(11), 17165-17174, 2023.
+4. Y. Y. Wang, H. Zheng, __H. Wu__, D. M. Huang, C. Y. Yu, and C. Lu. “Coherent OTDR with large dynamic range based on double-sideband linear frequency modulation pulse.” Optics Express, 31(11), 17165-17174, 2023.<a href="https://haleywuhuan.github.io/profile/assets/paper1.pdf" target="_blank"> full paper</a>
 
 5. __H. Wu__, B. Zhou, K. Zhu, C. Shang, H.Y. Tam, and C. Lu. “Pattern recognition in distributed fiber-optic acoustic sensor using an intensity and phase stacked convolutional neural network with data augmentation.” Optics Express, 29(3), 3269-3283, 2021.
 
