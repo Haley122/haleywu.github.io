@@ -27,7 +27,7 @@ The working principle of DTS is based on Raman scattering, which utilizes the re
 
 
 ### <ins>Publications
-1. __H. Wu__, H. F. Duan, Wallace Lai, K. Zhu, X. Cheng, H. Yin, B. Zhou, C. C. Lai, C. Lu, and X. L. Ding. “Leveraging optical communication fiber and AI for distributed water pipe leak detection.” IEEE Communications Magazine, to be appear.  <a href="https://haleywuhuan.github.io/pdf/paper1.pdf" target="_blank"> full paper</a>
+1. __H. Wu__, H. F. Duan, Wallace Lai, K. Zhu, X. Cheng, H. Yin, B. Zhou, C. C. Lai, C. Lu, and X. L. Ding. “Leveraging optical communication fiber and AI for distributed water pipe leak detection.” IEEE Communications Magazine, to appear.  <a href="https://haleywuhuan.github.io/assets/paper1.pdf" target="_blank"> full paper</a>
 
 2. H. Zheng, __H. Wu*__, C. Y. Leong, Y. Y. Wang, X. L. Shen, Z. Fang, X. Chen, J. X. Cui, D. J. Ma, Y. Miao, L. Zhou, M. Yan, J. Sun, H. Y. Tam, X. L. Ding, C. Lu. “Enhanced quasi-distributed accelerometer array based on phase-OTDR and ultraweak fiber Bragg grating.” IEEE Sensors Journal, early access, doi: 10.1109/JSEN.2023.3288971.
 
