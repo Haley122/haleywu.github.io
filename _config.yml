@@ -24,7 +24,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
  - {title: Mail, icon: envelope, url: "mailto:hkpolyu.wu@polyu.edu.hk"}
- 
+ - {title: Google scholar, icon: google-scholar, url: "https://scholar.google.com/citations?user=kddf8fUAAAAJ&hl=zh-CN"}
+ - {title: Strava, icon: Strava, url: "https://www.strava.com/athletes/100939052"}
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
