@@ -25,3 +25,35 @@ The working principle of DTS is based on Raman scattering, which utilizes the re
 
 ![DTS](assets/DTS.jpg)
 
+
+### <ins>Publications
+1. H. Wu, H. F. Duan, Wallace Lai, K. Zhu, X. Cheng, H. Yin, B. Zhou, C. C. Lai, C. Lu, and X. L. Ding. “Leveraging optical communication fiber and AI for distributed water pipe leak detection.” IEEE Communications Magazine, to be appear. <a href="https://haley122.github.io/pdf/das_pdf1.pdf" target="_blank"> full paper</a>
+
+2. H. Zheng, H. Wu*, C. Y. Leong, Y. Y. Wang, X. L. Shen, Z. Fang, X. Chen, J. X. Cui, D. J. Ma, Y. Miao, L. Zhou, M. Yan, J. Sun, H. Y. Tam, X. L. Ding, C. Lu. “Enhanced quasi-distributed accelerometer array based on phase-OTDR and ultraweak fiber Bragg grating.” IEEE Sensors Journal, early access, doi: 10.1109/JSEN.2023.3288971.
+
+3. H. Zheng+, H. Wu+*, D. J. Ma, Y. Miao, L. Zhou, M. Yan, J. Sun, C. Y. Yu, X. L. Ding, C. Lu. “Novel mining conveyor monitoring system based on quasi-distributed optical fiber accelerometer array and self-supervised learning.” Under review.
+
+4. Y. Y. Wang, H. Zheng, H. Wu, D. M. Huang, C. Y. Yu, and C. Lu. “Coherent OTDR with large dynamic range based on double-sideband linear frequency modulation pulse.” Optics Express, 31(11), 17165-17174, 2023.
+
+5. H. Wu, B. Zhou, K. Zhu, C. Shang, H.Y. Tam, and C. Lu. “Pattern recognition in distributed fiber-optic acoustic sensor using an intensity and phase stacked convolutional neural network with data augmentation.” Optics Express, 29(3), 3269-3283, 2021.
+
+6. Z. Y. Zhao+, H. Wu+, J. H. Hu, K. Zhu, Y. L. Dang, Y. X. Yan, M. Tang, and C. Lu. “Interference fading suppression in phase-OTDR using space-division multiplexed probes.” Optics Express, 29(10), 15452-15462, 2021.
+
+7. K. Zhu, B. Zhou, H. Wu*, C. Shang, L. Y. Lu, M. Adeel, Y. Y. Xi, Z. Y. Zhao, H. Y. Tam and C. Lu. “Interference fading suppression in phase-OTDR using space-division multiplexed probes.” Optics and Lasers in Engineering, 142, 106593, 2021.
+
+8. H. Wu, C. Shang, K. Zhu, and C. Lu, “Vibration detection in distributed acoustic sensor with threshold-based technique: a statistical view and analysis,” Journal of Lightwave Technology, 39(12), 4082-4093, 2020.
+
+9. M. Adeel, C. Shang, D. Hu, H. Wu, K. Zhu, A. Raza, C. Lu, ‘Impact-based feature extraction utilizing differential signals of phase-sensitive OTDR,’ Journal of Lightwave Technology, 38(8), 2539-2546, 2020.
+
+10. H. Wu+, H. D. Wang+, C. Shu, C. S. Choy, and C. Lu, “BOTDA fiber sensor system based on FPGA accelerated support vector regression,” IEEE Transactions on Instrumentation and Measurement, 69(6), 3826-3837, 2019.
+
+11. H. Wu, L. Wang, Z. Zhao, C. Shu, C. Lu, “Support vector machine based differential pulse-width pair Brillouin optical time domain analyzer”, IEEE Photonics Journal, 10(4),1-11, 2018.
+
+12. H. Wu, L. Wang, Z. Zhao, N. Guo, C. Shu, C. Lu, ‘Brillouin optical time domain analyzer sensors assisted by advanced image denoising techniques’, Optics Express, 26(5), 5126-5139, 2018.
+
+13. H. Wu, L. Wang, N. Guo, C. Shu, C. Lu, ‘Support vector machine assisted BOTDA utilizing combined Brillouin gain and phase information for enhanced sensing accuracy’, Optics Express, 25(25), 31210-31220, 2017.
+
+14. N. Guo, L. Wang, H. Wu, C. Jin, H. Y. Tam, C. Lu, ‘Enhanced coherent BOTDA system without trace averaging’, Journal of Lightwave Technology, 36(4), 871-878, 2017.
+
+15. H. Wu, L. Wang, N. Guo, C. Shu, C. Lu, ‘Brillouin optical time-domain analyzer assisted by support vector machine for ultrafast temperature extraction’ Journal of Lightwave Technology, 35(19), 4159-4167, 2017.
+
