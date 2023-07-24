@@ -1,8 +1,6 @@
 title: "Huan WU"
 author: "Haley WU"
-description: "Adress: DE620, Hong Kong Polytechnic University  
-
-              Email: hkpolyu.wu@polyu.edu.hk"
+description: "Adress: DE620, Hong Kong Polytechnic University"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
