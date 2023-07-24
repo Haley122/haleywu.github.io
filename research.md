@@ -11,17 +11,17 @@ Distributed optical fiber sensors allow many points to be measured simultaneousl
 #### 1. Distributed acoustic sensor (DAS)
 The working principle of DAS is based on the phase-sensitive OTDR that utilizes the interference effect of Rayleigh backscattering of different scatters within the pulse width. A DAS prototype that can realize real-time vibration sensing along 30 km optical fiber was built in our lab. Check out the basic principle of DAS [here] ()
 
-![DAS]("images/prototype.jpg")
+![DAS](images/prototype.jpg)
 
 <br><br>
 #### 2. Distributed temperature and strain sensing (DTSS)
 The working principle of DTSS is based on the stimulated Brillouin scattering that utilizes the linear relationship of Brillouin frequency shift and temperature/strain. A DTSS system that can realize temperature/strain sensing along 50 km optical fiber was built in our lab.Check out the basic principle of DTSS [here] ()
 
-![DTSS]("images/BOTDA2.jpg")
+![DTSS](images/BOTDA2.jpg)
 
 <br><br>
 #### 3. Distributed temperature sensing (DTS)
 The working principle of DTSS is based on the stimulated Brillouin scattering that utilizes the linear relationship of Brillouin frequency shift and temperature/strain. A DTSS system that can realize temperature/strain sensing along 50 km optical fiber was built in our lab.Check out the basic principle of DTS [here] ()
 
-![DTS]("images/BOTDA2.jpg")
+![DTS](images/BOTDA2.jpg)
 
