@@ -26,6 +26,10 @@ The working principle of DTS is based on Raman scattering, which utilizes the re
 
 ![DTS](assets/DTS.jpg)
 
+### <ins>Talks
+"Harnessing the power of light: the journey of distributed optical fiber sensors," Chongqing University summer visit to PolyU, July 2023.
+
+“Optical fiber sensing applications in real-time assets health monitoring for building structures,” Webinar on Application of Automation and Technology in Construction Materials Testing, Hong Kong Council for Testing and Certification, Feb 2023.
 
 ### <ins>Publications
 1. __H. Wu__, H. F. Duan, Wallace Lai, K. Zhu, X. Cheng, H. Yin, B. Zhou, C. C. Lai, C. Lu, and X. L. Ding. “Leveraging optical communication fiber and AI for distributed water pipe leak detection,” IEEE Communications Magazine, to appear.  <a href="https://haleywuhuan.github.io/profile/assets/paper1.pdf" target="_blank"> full paper</a>
