@@ -9,4 +9,4 @@ I received a B.Eng degree from the Nanjing University of Aeronautics and Astrona
 
 My current research interests include distributed optical fiber sensors and their applications.
 
-I also take delight in waterside long runs, hiking, and yoga, welcome to check out my [Strava](https://www.strava.com/athletes/100939052) 😉
+In my spare time, I enjoy waterside long runs, hiking, and yoga. Welcome to check out my [Strava](https://www.strava.com/athletes/100939052) 😉
