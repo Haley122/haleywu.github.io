@@ -26,22 +26,22 @@ The working principle of DTSS is based on the stimulated Brillouin scattering th
 The working principle of DTS is based on Raman scattering, which utilizes the relationship between Stokes and anti-Stokes intensities and temperature. In our lab, we have built a DTS system capable of realizing temperature sensing along a 10 km optical fiber in our lab. Check out the [basic principle of DTS](https://haleywuhuan.github.io/profile/Part9-Raman-scattering-based-distributed-temperature-sensor-(DTS)/)
 
 ![DTS](assets/research_DTS.jpg)
-
-<br><br>
+```
+<br>
 ### <ins>Talks <ins>
 "Harnessing the power of light: the journey of distributed optical fiber sensors," Chongqing University summer visit to PolyU, July 2023.      
 
 “Optical fiber sensing applications in real-time assets health monitoring for building structures,” Webinar on Application of Automation and Technology in Construction Materials Testing, Hong Kong Council for Testing and Certification, Feb 2023.
-
-<br><br>
+```
+<br>
 ### <ins>Professional Services <ins>
 
 **Consultant** for Water Supplies Department, The Government of Hong Kong SAR     
 Project: Consultancy study on distributed fiber optic system for leak detection for water mains in Anderson Road Quarry Development Site, ongoing
 
 **Reviewer** for Optics Express, Photonics Journal, Journal of Lightwave Technology, Optics and Lasers in Engineering
-
-<br><br>
+```
+<br>
 ### <ins>Publications <ins>
 1. __H. Wu__, H. F. Duan, Wallace Lai, K. Zhu, X. Cheng, H. Yin, B. Zhou, C. C. Lai, C. Lu, and X. L. Ding. “Leveraging optical communication fiber and AI for distributed water pipe leak detection,” IEEE Communications Magazine, to appear.  <a href="https://haleywuhuan.github.io/profile/assets/paper1.pdf" target="_blank"> full paper</a>
 
