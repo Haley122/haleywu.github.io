@@ -47,7 +47,7 @@ The working principle of DTS is based on Raman scattering, which utilizes the re
 
 7. K. Zhu, B. Zhou, __H. Wu*__, C. Shang, L. Y. Lu, M. Adeel, Y. Y. Xi, Z. Y. Zhao, H. Y. Tam and C. Lu. “Multipath distributed acoustic sensing system based on phase-sensitive optical time-domain reflectometry with frequency division multiplexing technique,” Optics and Lasers in Engineering, 142, 106593, 2021.<a href="https://haleywuhuan.github.io/profile/assets/paper7.pdf" target="_blank"> full paper</a>
 
-8. __H. Wu__, C. Shang, K. Zhu, and C. Lu, “Vibration detection in distributed acoustic sensor with threshold-based technique: a statistical view and analysis,” Journal of Lightwave Technology, 39(12), 4082-4093, 2020.<a href="https://haleywuhuan.github.io/profile/assets/paper8.pdf" target="_blank"> full paper</a>
+8. __H. Wu__, C. Shang, K. Zhu, and C. Lu, “Vibration detection in distributed acoustic sensor with threshold-based technique: a statistical view and analysis,” Journal of Lightwave Technology, 39(12), 4082-4093, 2020.<a href="https://haleywuhuan.github.io/profile/assets/paper8.pdf" target="_blank"> full paper</a>,<a href="https://github.com/haleywuhuan/Distributed-Acoustic-Sensor-DAS1K-Pattern-Recognition" target="_blank"> project page</a>
 
 9. M. Adeel, C. Shang, D. Hu, __H. Wu__, K. Zhu, A. Raza, C. Lu, ‘Impact-based feature extraction utilizing differential signals of phase-sensitive OTDR,’ Journal of Lightwave Technology, 38(8), 2539-2546, 2020.<a href="https://haleywuhuan.github.io/profile/assets/paper9.pdf" target="_blank"> full paper</a>
 
