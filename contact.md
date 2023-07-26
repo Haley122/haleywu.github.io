@@ -10,4 +10,7 @@ Email: hkpolyu.wu@polyu.edu.hk
 Office: DE620, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong      
 Tel: (+852) 2766 6247
 
-![DAS](assets/contact1.jpg)
+![contact1](assets/contact1.jpg)
+
+![contact2](assets/contact2.jpg)
+
