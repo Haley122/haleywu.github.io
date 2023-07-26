@@ -34,8 +34,7 @@ The working principle of DTS is based on Raman scattering, which utilizes the re
 
 ### <ins>Professional Services
 
-**Consultant** for Water Supplies Department, The Government of Hong Kong SAR
-
+**Consultant** for Water Supplies Department, The Government of Hong Kong SAR     
 Project: Consultancy study on distributed fiber optic system for leak detection for water mains in Anderson Road Quarry Development Site, ongoing
 
 **Reviewer** for Optics Express, Photonics Journal, Journal of Lightwave Technology, Optics and Lasers in Engineering
@@ -71,5 +70,5 @@ Project: Consultancy study on distributed fiber optic system for leak detection 
 
 15. __H. Wu__, L. Wang, N. Guo, C. Shu, C. Lu, ‘Brillouin optical time-domain analyzer assisted by support vector machine for ultrafast temperature extraction,’ Journal of Lightwave Technology, 35(19), 4159-4167, 2017.<a href="https://haleywuhuan.github.io/profile/assets/paper15.pdf" target="_blank"> full paper</a>
 
-+ represents the equal contribution
-* represents the corresponding author
+"+" represents the equal contribution
+"*" represents the corresponding author
