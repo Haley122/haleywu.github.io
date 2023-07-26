@@ -14,3 +14,9 @@ Belt conveyors play a critical role in the mining industry, and any downtime the
 The sensor array incorporates phase-sensitive optical time domain reflectometry (Phase-OTDR) interrogation technology and ultra-weak fiber Bragg gratings (UWFBGs) with an enhanced signal-to-noise ratio (SNR) to effectively capture idler vibrations over long distances. The designed array achieves high-sensitivity vibration sensing with a sensitivity of 2.4 rad/g and a resolution of 0.0146 g. After collecting the vibrations of idlers by the designed accelerometer array, an automatic fault classification algorithm based on self-supervised learning (SSL) is introduced, which requires only a small number of labeled samples. By leveraging a large amount of unlabeled data in the pretext task, the algorithm efficiently extracts latent features from the quasi-distributed accelerometer array.  A diagnosis accuracy of 95.37% can be achieved on a seven-class classification task with only 3.6% labeled data (16 samples/class). This system offers a promising solution for idler monitoring, combining high sensitivity, distributed measurement capabilities, enhanced security, and superior fault detection accuracy.
 
 ![project1](assets/project2.jpg)
+
+#### 3. Brillouin Optical Time-Domain Sensing System for Railway Monitoring
+Railways are subject to significant temperature variations throughout the year. Extreme temperatures, especially in hot weather, can cause the tracks to expand, leading to buckling and deformation. In colder climates, freezing temperatures can contract the tracks, potentially causing track fractures. Monitoring the temperature helps identify critical temperature thresholds and prevents potential track failures, ensuring the safety and integrity of the railway infrastructure.
+
+We developed a Brillouin optical time-domain analyzer (BOTDA) sensing system for our funding sponsor. 
+![project1](assets/project3.jpg)
