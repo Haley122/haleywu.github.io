@@ -70,3 +70,6 @@ Project: Consultancy study on distributed fiber optic system for leak detection 
 14. N. Guo, L. Wang, __H. Wu__, C. Jin, H. Y. Tam, C. Lu, ‘Enhanced coherent BOTDA system without trace averaging,’ Journal of Lightwave Technology, 36(4), 871-878, 2017.<a href="https://haleywuhuan.github.io/profile/assets/paper14.pdf" target="_blank"> full paper</a>
 
 15. __H. Wu__, L. Wang, N. Guo, C. Shu, C. Lu, ‘Brillouin optical time-domain analyzer assisted by support vector machine for ultrafast temperature extraction,’ Journal of Lightwave Technology, 35(19), 4159-4167, 2017.<a href="https://haleywuhuan.github.io/profile/assets/paper15.pdf" target="_blank"> full paper</a>
+
++ represents the equal contribution
+* represents the corresponding author
