@@ -32,6 +32,13 @@ The working principle of DTS is based on Raman scattering, which utilizes the re
 
 “Optical fiber sensing applications in real-time assets health monitoring for building structures,” Webinar on Application of Automation and Technology in Construction Materials Testing, Hong Kong Council for Testing and Certification, Feb 2023.
 
+### Professional Services
+
+**Consultant** for Water Supplies Department, The Government of Hong Kong SAR
+Project: Consultancy study on distributed fiber optic system for leak detection for water mains in Anderson Road Quarry Development Site, ongoing
+
+**Reviewer** for Optics Express, Photonics Journal, Journal of Lightwave Technology, Optics and Lasers in Engineering
+
 ### <ins>Publications
 1. __H. Wu__, H. F. Duan, Wallace Lai, K. Zhu, X. Cheng, H. Yin, B. Zhou, C. C. Lai, C. Lu, and X. L. Ding. “Leveraging optical communication fiber and AI for distributed water pipe leak detection,” IEEE Communications Magazine, to appear.  <a href="https://haleywuhuan.github.io/profile/assets/paper1.pdf" target="_blank"> full paper</a>
 
