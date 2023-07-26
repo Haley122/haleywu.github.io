@@ -2,7 +2,7 @@
 layout: page
 title:
 ---
-Our lab is equipped with a diverse range of resources, including self-developed distributed optical fiber sensors (DOFSs) and cutting-edge interrogators sourced from the market. Over the years, we have collaborated with various parties across different fields. Whether you are interested in research collaborations or seeking industry consultancy, welcome to reach out to us 😊
+Our lab is equipped with a diverse range of resources, including self-developed distributed optical fiber sensors (DOFSs) and cutting-edge interrogators sourced from the market. Over the years, we have collaborated with various parties across different fields. Whether you are interested in research collaborations or seeking industry consultancy, welcome to reach out to us ☺️
 
 Contact    
 Name: WU Huan     
