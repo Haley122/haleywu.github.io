@@ -7,8 +7,8 @@ title:
 My research focuses on the field of distributed optical fiber sensors (DOFSs) and their applications. I am interested in developing new optical fiber-based monitoring technologies. The development of new DOFSs involves a combination of advanced interrogation schemes (modulation and demodulation parts), utilizing specialty optical fibers, and designing transducers.
 Moreover, I am actively engaged in exploring data-driven signal processing methods to effectively leverage the data collected from fiber-optic-based sensors. My overarching goal is to make meaningful advancements in this area and harness the full potential of light and optical fiber, thereby creating intelligent and superior sensing solutions.
 
-### <ins>Distributed optical fiber sensing technologies</ins>
- In my research, I have focused on exploring the following three distributed optical fiber sensors.
+### <ins>Distributed optical fiber sensing technologies</ins>     
+In my research, I have focused on exploring the following three distributed optical fiber sensors.
 
 #### 1. Distributed acoustic sensor (DAS)
 The working principle of DAS is based on the phase-sensitive OTDR that utilizes the interference effect of Rayleigh backscattering of different scatters within the pulse width. A DAS prototype that can realize real-time vibration sensing along 30 km optical fiber was built in our lab. Check out the basic principle of DAS [here] ()
@@ -16,30 +16,29 @@ The working principle of DAS is based on the phase-sensitive OTDR that utilizes 
 ![DAS](assets/DAS.jpg)
 
 <br><br>
-#### 2. Distributed temperature and strain sensing (DTSS)
+#### 2. Distributed temperature and strain sensing (DTSS)     
 The working principle of DTSS is based on the stimulated Brillouin scattering that utilizes the linear relationship of Brillouin frequency shift and temperature/strain. A DTSS system that can realize temperature/strain sensing along 50 km optical fiber was built in our lab.Check out the basic principle of DTSS [here] ()
 
 ![DTSS](assets/DTSS.jpg)
 
 <br><br>
-#### 3. Distributed temperature sensing (DTS)
+#### 3. Distributed temperature sensing (DTS)     
 The working principle of DTS is based on Raman scattering, which utilizes the relationship between Stokes and anti-Stokes intensities and temperature. In our lab, we have built a DTS system capable of realizing temperature sensing along a 10 km optical fiber in our lab. Check out the basic principle of DTS [here] ()
 
 ![DTS](assets/DTS.jpg)
 
-### <ins>Talks
-"Harnessing the power of light: the journey of distributed optical fiber sensors," Chongqing University summer visit to PolyU, July 2023.
-
+### <ins>Talks <ins>
+"Harnessing the power of light: the journey of distributed optical fiber sensors," Chongqing University summer visit to PolyU, July 2023.      
 “Optical fiber sensing applications in real-time assets health monitoring for building structures,” Webinar on Application of Automation and Technology in Construction Materials Testing, Hong Kong Council for Testing and Certification, Feb 2023.
 
-### <ins>Professional Services
+### <ins>Professional Services <ins>
 
 **Consultant** for Water Supplies Department, The Government of Hong Kong SAR     
 Project: Consultancy study on distributed fiber optic system for leak detection for water mains in Anderson Road Quarry Development Site, ongoing
 
 **Reviewer** for Optics Express, Photonics Journal, Journal of Lightwave Technology, Optics and Lasers in Engineering
 
-### <ins>Publications
+### <ins>Publications <ins>
 1. __H. Wu__, H. F. Duan, Wallace Lai, K. Zhu, X. Cheng, H. Yin, B. Zhou, C. C. Lai, C. Lu, and X. L. Ding. “Leveraging optical communication fiber and AI for distributed water pipe leak detection,” IEEE Communications Magazine, to appear.  <a href="https://haleywuhuan.github.io/profile/assets/paper1.pdf" target="_blank"> full paper</a>
 
 2. H. Zheng, __H. Wu*__, C. Y. Leong, Y. Y. Wang, X. L. Shen, Z. Fang, X. Chen, J. X. Cui, D. J. Ma, Y. Miao, L. Zhou, M. Yan, J. Sun, H. Y. Tam, X. L. Ding, C. Lu. “Enhanced quasi-distributed accelerometer array based on phase-OTDR and ultraweak fiber Bragg grating,” IEEE Sensors Journal, early access, 2023.<a href="https://haleywuhuan.github.io/profile/assets/paper2.pdf" target="_blank"> full paper</a>
@@ -70,5 +69,5 @@ Project: Consultancy study on distributed fiber optic system for leak detection 
 
 15. __H. Wu__, L. Wang, N. Guo, C. Shu, C. Lu, ‘Brillouin optical time-domain analyzer assisted by support vector machine for ultrafast temperature extraction,’ Journal of Lightwave Technology, 35(19), 4159-4167, 2017.<a href="https://haleywuhuan.github.io/profile/assets/paper15.pdf" target="_blank"> full paper</a>
 
-"+" represents the equal contribution
+"+" represents the equal contribution     
 "*" represents the corresponding author
