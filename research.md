@@ -4,10 +4,11 @@ title:
 ---
 
 
-My research focuses on the field of distributed optical fiber sensors and their applications. I am interested in developing new optical fiber-based monitoring technologies that enable gaining insights into monitoring infrastructure, detecting anomalies, and providing sensing data for performance analyses. Additionally, I am conducting research on data-driven signal processing methods to effectively utilize the data collected from fiber-optic-based sensors. Throughout my work, I aim to make meaningful advancements in this area and harness the full potential of light and optical fiber to create smarter and better sensing solutions for the industry. 
+My research focuses on the field of distributed optical fiber sensors (DOFSs) and their applications. I am interested in developing new optical fiber-based monitoring technologies. The development of new DOFSs involves a combination of advanced interrogation schemes (modulation and demodulation parts), utilizing specialty optical fibers, and designing transducers.
+Moreover, I am actively engaged in exploring data-driven signal processing methods to effectively leverage the data collected from fiber-optic-based sensors. My overarching goal is to make meaningful advancements in this area and harness the full potential of light and optical fiber, thereby creating intelligent and superior sensing solutions.
 
 ### <ins>Distributed optical fiber sensing technologies</ins>
-Distributed optical fiber sensors are technologies that utilize optical fibers as sensing elements to monitor various parameters along their length. These sensors enable continuous and real-time measurements over long distances, providing valuable insights. In my research, I have focused on exploring the following three distributed optical fiber sensors.
+ In my research, I have focused on exploring the following three distributed optical fiber sensors.
 
 #### 1. Distributed acoustic sensor (DAS)
 The working principle of DAS is based on the phase-sensitive OTDR that utilizes the interference effect of Rayleigh backscattering of different scatters within the pulse width. A DAS prototype that can realize real-time vibration sensing along 30 km optical fiber was built in our lab. Check out the basic principle of DAS [here] ()
