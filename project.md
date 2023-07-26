@@ -5,7 +5,7 @@ Detecting leaks in water networks is a costly challenge. We collaborated with th
 
 Further research with large-scale experiments will be conducted at Q-Leak underground water mains leak detection training center and Anderson Road Quarry Site in Hong Kong to explore the challenges and opportunities of integrating optical networks and water distribution networks (WDNs).
 
-Related Project: Consultancy study on distributed fiber optic system for leak detection for water mains in Anderson Road Quarry Development Site
+Related project: Consultancy study on distributed fiber optic system for leak detection for water mains in Anderson Road Quarry Development Site
 ![project1](assets/project1.jpg)
 
 #### 2. Novel Mining Conveyor Monitoring System based on Quasi-Distributed Optical Fiber Accelerometer Array and Self-supervised Learning 
