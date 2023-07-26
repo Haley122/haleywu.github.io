@@ -9,7 +9,7 @@ A typical optical fiber communication system consists of three main components: 
 
 <a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog2_fig1.jpg" align="center" width="650"></a>
 
-</br>
+
 Now, let's shift our focus to the DOFSs system, which also comprises three main components: a laser, an optical fiber, and a photodiode. However, there are notable differences between the optical fiber communication system and DOFSs:
 
 * In DOFSs, as we don't need to transmit signals over long distances, only a laser diode and a photodiode are required for sensing purposes.
