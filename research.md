@@ -35,6 +35,7 @@ The working principle of DTS is based on Raman scattering, which utilizes the re
 ### <ins>Professional Services
 
 **Consultant** for Water Supplies Department, The Government of Hong Kong SAR
+
 Project: Consultancy study on distributed fiber optic system for leak detection for water mains in Anderson Road Quarry Development Site, ongoing
 
 **Reviewer** for Optics Express, Photonics Journal, Journal of Lightwave Technology, Optics and Lasers in Engineering
