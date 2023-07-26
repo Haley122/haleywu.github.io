@@ -21,3 +21,11 @@ Railways are subject to significant temperature variations throughout the year. 
 We developed a Brillouin optical time-domain analyzer (BOTDA) sensing system for our funding sponsor. 
 
 ![project1](assets/project3.jpg)
+
+
+#### 4. Crowd Surveillance based on Fiber-Optics
+Crowd surveillance plays a vital role in enhancing public safety and security in diverse settings, such as public spaces, transportation hubs, and large events. By enabling authorities to monitor and manage crowds, detect potential threats, and respond swiftly to emergencies, crowd surveillance contributes significantly to overall safety measures.
+
+we conducted a trail test for crowd monitoring by laying a fiber-optic cable beneath the newly built footbridge at PolyU. The fiber-optic-based solution offers an alternative approach for crowd surveillance without raising privacy concerns, maintaining public trust in the surveillance system.
+
+![project1](assets/project4.jpg)
