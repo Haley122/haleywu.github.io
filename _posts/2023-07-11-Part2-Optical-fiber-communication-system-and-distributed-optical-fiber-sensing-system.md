@@ -7,7 +7,6 @@ layout: post
 
 A typical optical fiber communication system consists of three main components: a transmitter, an optical fiber, and a receiver. The transmitter comprises a laser and a signal modulation component. Its primary function is to encode the electrical signal into a light wave for transmission. On the other hand, the receiver is made up of a photodiode and a signal recovery part, responsible for converting the received light back into an electrical signal. Various methods exist for modulating the electrical signal into optical light, such as amplitude modulation, frequency modulation, and phase modulation. Through the manipulation of the light's amplitude, frequency, or phase, the information is effectively encoded onto the light wave.
 
-<img src="https://github.com/haleywuhuan/profile/blob/master/assets/blog2_fig1.jpg" width=70% height=70%>
 <div style="width: 60%; height: 60%"> 
   ![blog2](/assets/blog2_fig1.jpg)
 </div>
