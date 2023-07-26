@@ -7,7 +7,7 @@ layout: post
 
 A typical optical fiber communication system consists of three main components: a transmitter, an optical fiber, and a receiver. The transmitter comprises a laser and a signal modulation component. Its primary function is to encode the electrical signal into a light wave for transmission. On the other hand, the receiver is made up of a photodiode and a signal recovery part, responsible for converting the received light back into an electrical signal. Various methods exist for modulating the electrical signal into optical light, such as amplitude modulation, frequency modulation, and phase modulation. Through the manipulation of the light's amplitude, frequency, or phase, the information is effectively encoded onto the light wave.
 
-![blog2](https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog2_fig1.jpg | width=100)
+![blog2](https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog2_fig1.jpg =100x)
 
 
 Now, let's shift our focus to the DOFSs system, which also comprises three main components: a laser, an optical fiber, and a photodiode. However, there are notable differences between the optical fiber communication system and DOFSs:
