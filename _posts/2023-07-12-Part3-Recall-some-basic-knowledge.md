@@ -30,3 +30,10 @@ Atoms consist of a nucleus and orbiting electrons in discrete shells, each corre
 
 <br><br>
 In the forthcoming sections, as we explore DOFSs, we will encounter situations where light is treated as a wave when interacting with objects much larger than the light wavelength. Conversely, we will also encounter cases where both light and the object's wave-particle nature should be considered.
+
+**Reference**
+1. The Feynman Lectures on Physics, [](https://www.feynmanlectures.caltech.edu/)
+2. Orzel C. Breakfast with Einstein: The exotic physics of everyday objects. BenBella Books, 2018.
+
+
+
