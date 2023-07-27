@@ -19,7 +19,7 @@ The utilization of Raman scattering in temperature measurement stems from Boltzm
 
 \\(\epsilon~i~\\)
 
-\\(exp((E~i~-E~j~)/kT)\\)
+\\(exp((\epsilon~i~-\epsilon~j~)/kT)\\)
 
 By considering the Stokes and anti-Stokes processes with Boltzmann's law, we find that the anti-Stokes process is more sensitive to temperature. Researchers have discovered that the sensitivity of anti-Stokes is about 0.8%/&deg;C, while the sensitivity of Stokes is about 0.1%/&deg;C. Based on this relationship, we can employ Raman scattering for distributed temperature measurement. Temperature information can be derived from either Stokes, anti-Stokes, or their ratio.
 
