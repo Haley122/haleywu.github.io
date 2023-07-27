@@ -24,3 +24,9 @@ In this paper, Charles Kao also analyzed the bending loss and how dispersion wil
 If you are interested in Charles Kao's life, his autobiography, '潮平岸阔' (Chinese version) or 'A Time and a Tide' (English version), provides a journey through his childhood in Shanghai during WWII, his educational journey, and his career as a researcher at Standard Telecommunication Lab, and how he was appointed as Vice-Chancellor of The Chinese University of Hong Kong.
 
 Only four years after the paper's publication, in 1970, three scientists at Corning, successfully invented the world's first low-loss optical fiber, with an impressive attenuation rate of 17 dB/km. Over time, they further pushed the boundaries and reduced the attenuation rate to 4 dB/km. The breakthrough showed the immense potential of optical fibers as a reliable medium for transmitting information across vast distances. In 1976, a 45 Mb/s optical fiber communication system was demonstrated. This demonstration marked a critical milestone for optical fiber communication and set the stage for the rapid advancement of this transformative technology and laid the infrastructure foundation of the Internet revolution.
+
+**Reference**
+1. Kumar S, Deen M J. Fiber optic communications: fundamentals and applications. John Wiley & Sons, 2014.
+2. Keiser G. Optical fiber communications. New York: McGraw-Hill, 2000.
+3. 潮平岸阔：高锟自述
+
