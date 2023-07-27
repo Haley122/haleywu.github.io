@@ -1,5 +1,6 @@
 ---
 title: "Part9-Raman scattering based distributed temperature sensor (DTS)"
+mathjax: true
 layout: post
 ---
 Raman scattering occurs when light interacts with optical phonons, which are material waves describing the collective vibration of atoms. This phenomenon is known as inelastic scattering, indicating that there is an energy exchange between the incident photon and the optical phonon. Raman scattering results in two outcomes: Stokes and anti-Stokes processes.
