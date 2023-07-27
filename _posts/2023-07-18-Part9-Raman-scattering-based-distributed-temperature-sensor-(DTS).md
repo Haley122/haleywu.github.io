@@ -13,7 +13,9 @@ On the other hand, in the anti-Stokes process, the electrons' initial energy lev
 <a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog9_fig1.jpg" align="center" width="700"></a>
 </div>
 
-The utilization of Raman scattering in temperature measurement stems from Boltzmann's law, which states that the probability of an atom being in an energy state is proportional to \\(exp(-\epsilon<sub>i</sub>/kT))\\). Moreover, the ratio of atoms in energy states i and j is proportional to \\(exp(-(\epsilon<sub>i</sub>-\epsilon<sub>j</sub>)/kT))\\). Therefore, for two fixed energy levels i and j, at higher temperatures, a larger number of atoms will be in the higher energy level.
+The utilization of Raman scattering in temperature measurement stems from Boltzmann's law, which states that the probability of an atom being in an energy state is proportional to \\(exp(-\epsilon<sub>i</sub>/kT)\\). Moreover, the ratio of atoms in energy states i and j is proportional to \\(exp(-(\epsilon<sub>i</sub>-\epsilon<sub>j</sub>)/kT))\\). Therefore, for two fixed energy levels i and j, at higher temperatures, a larger number of atoms will be in the higher energy level.
+
+\\((\epsilon<sub>i</sub>-\epsilon<sub>j</sub>)\\)
 
 By considering the Stokes and anti-Stokes processes with Boltzmann's law, we find that the anti-Stokes process is more sensitive to temperature. Researchers have discovered that the sensitivity of anti-Stokes is about 0.8%/&deg;C, while the sensitivity of Stokes is about 0.1%/&deg;C. Based on this relationship, we can employ Raman scattering for distributed temperature measurement. Temperature information can be derived from either Stokes, anti-Stokes, or their ratio.
 
