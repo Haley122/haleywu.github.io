@@ -5,7 +5,7 @@ layout: post
 ---
 The photodiode is a fundamental component of modern electronics and communication systems. The function is converting light into electrical signals and it is based on the photoelectric effect. 
 
-**Photoelectric effect**
+**Photoelectric effect**     
 The phenomenon occurs when light illuminates a metal plate, causing electrons to be ejected from its surface. Contrary to common belief, the probability of electron emission is not governed by the intensity of light but rather by its frequency. If the energy of a photon \\((hv)\\) exceeds the energy required to release an electron from the plate, the electron will be emitted with Kinetic energy \\((E<sub>k</sub>)\\). 
 
 Theoretically, a metal plate could serve as a photodiode; however, it would only be effective for very high frequencies, such as ultraviolet light. With the advent of semiconductor technology, scientists utilized the unique properties of PN junctions to create photodiodes with broader light wavelength ranges.
@@ -14,7 +14,7 @@ Theoretically, a metal plate could serve as a photodiode; however, it would only
 <a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog6_fig1.jpg" align="center" width="600"></a>
 </div>
 
-**PN Junctions**
+**PN Junctions**     
 Semiconductors, a class of materials lying between conductors and insulators, provide the foundation for modern electronics. Silicon, a widely used semiconductor, has four electrons in its outermost shell. When it crystallizes, each silicon atom shares its outermost electrons, therefore, it seems every atom has eight electrons in its outermost shell. This balanced state results in low conductivity for pure silicon.
 
 However, by introducing specific atoms, such as phosphorus or boron, into the silicon crystal, we can modify its conductivity. Phosphorus, with five outer shell electrons, creates an excess electron in the crystal, giving rise to an N-type semiconductor. On the other hand, boron, with three outer shell electrons, generates 'holes' where electrons are effectively missing, making it a P-type semiconductor. Despite their differing conductivities, both N-type and P-type semiconductors maintain electrical neutrality with equal numbers of electrons and protons. 
