@@ -1,5 +1,6 @@
 ---
 title: "Part8-Rayleigh scattering based distributed acoustic sensor (DAS)"
+mathjax: true
 layout: post
 ---
 Rayleigh scattering is a phenomenon caused by the atomic structure of glass and is almost unavoidable. As a result, one of the most common uses of Rayleigh scattering is to measure the loss of optical fiber. A typical Rayleigh scattering profile is depicted in the following. The slope in the profile represents the loss coefficient of the fiber, and any additional dips indicate extra losses, such as bending or poor connections. This technology is known as an optical time-domain reflectometer (OTDR).
