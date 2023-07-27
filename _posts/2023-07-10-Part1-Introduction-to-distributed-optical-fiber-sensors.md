@@ -32,6 +32,6 @@ The map below showcases the extensive network of submarine fiber optic cables, s
 </div>
 
 **Reference**
-1. [](https://en.wikipedia.org/wiki/Total_internal_reflection)
-2. [](https://www.submarinecablemap.com/)
+1. [https://en.wikipedia.org/wiki/Total_internal_reflection](https://en.wikipedia.org/wiki/Total_internal_reflection)
+2. [https://www.submarinecablemap.com/](https://www.submarinecablemap.com/)
 
