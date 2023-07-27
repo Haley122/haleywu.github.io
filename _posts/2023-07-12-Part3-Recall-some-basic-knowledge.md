@@ -1,5 +1,6 @@
 ---
 title: "Part3-Recall some basic knowledge"
+mathjax: true
 layout: post
 ---
 To gain a better understanding of the DOFSs, we need to explore their key components, including the laser, optical fiber, photodiode, and scattering phenomena (Rayleigh, Raman, and Brillouin) in optical fiber. Before we do that, let's refresh our knowledge of the historical debate about the nature of light and the concept of wave-particle duality.
