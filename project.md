@@ -35,7 +35,7 @@ Crowd surveillance plays a vital role in enhancing public safety and security in
 we conducted a trail test for crowd monitoring by laying a fiber-optic cable beneath the newly built footbridge at PolyU. The fiber-optic-based solution offers an alternative approach for crowd surveillance without raising privacy concerns, maintaining public trust in the surveillance system.
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/project4.jpg" align="center" width="600"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/project4.jpg" align="center" width="700"></a>
 </div>
 
 
