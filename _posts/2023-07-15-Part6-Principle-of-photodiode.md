@@ -11,7 +11,7 @@ The phenomenon occurs when light illuminates a metal plate, causing electrons to
 Theoretically, a metal plate could serve as a photodiode; however, it would only be effective for very high frequencies, such as ultraviolet light. With the advent of semiconductor technology, scientists utilized the unique properties of PN junctions to create photodiodes with broader light wavelength ranges.
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog6_fig1.jpg" align="center" width="700"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog6_fig1.jpg" align="center" width="600"></a>
 </div>
 
 **PN Junctions**
@@ -24,7 +24,7 @@ When a N-type semiconductor and a P-type semiconductor are brought together, a P
 By connecting an electrical circuit to the PN junction, the photodiode can operate. In a positive bias, the electrical field from the external circuit partially cancels out the internal field, reducing the width of the depletion region. Conversely, a reverse bias increases the width of the depletion region. When light is directed onto the depletion region, electron-hole paris are separated, and an external photocurrent is created.
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog6_fig2.jpg" align="center" width="700"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog6_fig2.jpg" align="center" width="900"></a>
 </div>
 
 **Reference**
