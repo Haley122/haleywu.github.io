@@ -24,5 +24,5 @@ The Brillouin spectrum provides valuable information for determining the central
 </div>
 
 **Reference**
-1. https://en.wikipedia.org/wiki/Brillouin_scattering
+1. [https://en.wikipedia.org/wiki/Brillouin_scattering](https://en.wikipedia.org/wiki/Brillouin_scattering)
 2. Hartog A H. An introduction to distributed optical fiber sensors. CRC press, 2017.
