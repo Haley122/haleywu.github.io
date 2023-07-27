@@ -7,7 +7,7 @@ Further research with large-scale experiments will be conducted at Q-Leak underg
 
 Project: Consultancy study on distributed fiber optic system for leak detection for water mains in Anderson Road Quarry Development Site
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/project1.jpg" align="center" width="900"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/project1.jpg" align="center" width="1000"></a>
 </div>
 
 #### 2. Novel Mining Conveyor Monitoring System based on Quasi-Distributed Optical Fiber Accelerometer Array and Self-supervised Learning 
@@ -16,7 +16,7 @@ Belt conveyors play a critical role in the mining industry, and any downtime the
 The sensor array incorporates phase-sensitive optical time domain reflectometry (Phase-OTDR) interrogation technology and ultra-weak fiber Bragg gratings (UWFBGs) with an enhanced signal-to-noise ratio (SNR) to effectively capture idler vibrations over long distances. The designed array achieves high-sensitivity vibration sensing with a sensitivity of 2.4 rad/g and a resolution of 0.0146 g. After collecting the vibrations of idlers by the designed accelerometer array, an automatic fault classification algorithm based on self-supervised learning (SSL) is introduced, which requires only a small number of labeled samples. By leveraging a large amount of unlabeled data in the pretext task, the algorithm efficiently extracts latent features from the quasi-distributed accelerometer array.  A diagnosis accuracy of 95.37% can be achieved on a seven-class classification task with only 3.6% labeled data (16 samples/class). This system offers a promising solution for idler monitoring, combining high sensitivity, distributed measurement capabilities, enhanced security, and superior fault detection accuracy.
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/project2.jpg" align="center" width="900"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/project2.jpg" align="center" width="1000"></a>
 </div>
 
 #### 3. Brillouin Optical Time-Domain Sensing System for Railway Monitoring
