@@ -6,7 +6,7 @@ layout: post
 The photodiode is a fundamental component of modern electronics and communication systems. The function is converting light into electrical signals and it is based on the photoelectric effect. 
 
 **Photoelectric effect**
-The phenomenon occurs when light illuminates a metal plate, causing electrons to be ejected from its surface. Contrary to common belief, the probability of electron emission is not governed by the intensity of light but rather by its frequency. If the energy of a photon \\((hv)\\) exceeds the energy required to release an electron from the plate, the electron will be emitted with Kinetic energy \\((E<sub>k)\\). 
+The phenomenon occurs when light illuminates a metal plate, causing electrons to be ejected from its surface. Contrary to common belief, the probability of electron emission is not governed by the intensity of light but rather by its frequency. If the energy of a photon \\((hv)\\) exceeds the energy required to release an electron from the plate, the electron will be emitted with Kinetic energy \\((E<sub>k</sub>)\\). 
 
 Theoretically, a metal plate could serve as a photodiode; however, it would only be effective for very high frequencies, such as ultraviolet light. With the advent of semiconductor technology, scientists utilized the unique properties of PN junctions to create photodiodes with broader light wavelength ranges.
 
