@@ -19,6 +19,6 @@ It is worth mentioning that although this technology is called a distributed aco
 </div>
 
 **Reference**     
-1. [](https://en.wikipedia.org/wiki/Rayleigh_scattering)
+1. [https://en.wikipedia.org/wiki/Rayleigh_scattering](https://en.wikipedia.org/wiki/Rayleigh_scattering)
 2. Hartog A H. An introduction to distributed optical fiber sensors. CRC press, 2017.
 
