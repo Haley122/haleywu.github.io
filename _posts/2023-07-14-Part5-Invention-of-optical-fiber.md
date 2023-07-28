@@ -18,7 +18,7 @@ In this paper, Charles Kao analyzed the loss mechanisms that plagued early optic
 In this paper, Charles Kao also analyzed the bending loss and how dispersion will affect the bandwidth of the optical fiber. His pioneering work on optical fiber communication earned him the title  of "the father of fiber optics".
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog5_fig1.jpg" align="center" width="700"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog5_fig1.jpg" align="center" width="800"></a>
 </div>
 
 If you are interested in Charles Kao's life, his autobiography, '潮平岸阔' (Chinese version) or 'A Time and a Tide' (English version), provides a journey through his childhood in Shanghai during WWII, his educational journey, and his career as a researcher at Standard Telecommunication Lab, and how he was appointed as Vice-Chancellor of The Chinese University of Hong Kong.
