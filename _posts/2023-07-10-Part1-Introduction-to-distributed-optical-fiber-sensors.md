@@ -9,7 +9,7 @@ Even if you haven't heard of 'distributed optical fiber sensors' before, the nam
 When we talk about sensors, images of small electronic devices like thermometers, hydrometers, accelerometers, and CCTV cameras might come to mind. These sensors come in various forms and can measure an array of parameters, including pressure, flow rate, humidity, and temperature, as well as electrical and motion-related parameters like resistance, current, voltage, position, velocity, and acceleration. Typically, these sensors collect signals at specific positions. 
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog1_fig1.jpg" align="center" width="500"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog1_fig1.jpg" align="center" width="650"></a>
 </div>
 
 **Distributed**
