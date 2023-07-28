@@ -20,7 +20,7 @@ By considering the Stokes and anti-Stokes processes with Boltzmann's law, we fin
 It is important to note that Raman scattering-based distributed temperature sensors may not respond well to extremely low temperatures, and this can also be explained by Boltzmann's law. However, the measurement temperature range is sufficient for most industrial applications.
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog9_fig2.jpg" align="center" width="700"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog9_fig2.jpg" align="center" width="600"></a>
 </div>
 
 [Next Part10](https://haleyhw.github.io/web/Part10-Brillouin-scattering-based-distributed-temperature-and-strain-sensor-(DTSS)/)
