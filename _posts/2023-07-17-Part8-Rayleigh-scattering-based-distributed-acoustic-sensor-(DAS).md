@@ -14,7 +14,7 @@ In addition to characterizing the loss of optical fiber, researchers later disco
 It is worth mentioning that although this technology is called a distributed acoustic sensor, it primarily measures strain changes rather than acoustic waves. This is because acoustic waves are pressure waves, and optical fiber, being made of glass, is not highly sensitive to pressure. The term distributed acoustic sensor may have been adopted to facilitate better communication with non-technical staff, as it allows one to illustrate the technology's capability by describing it as a system that can effectively turn the optical fiber into thousands of virtual microphones.
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog8_fig2.jpg" align="center" width="600"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog8_fig2.jpg" align="center" width="700"></a>
 </div>
 
 **Reference**     
