@@ -31,6 +31,8 @@ The map below showcases the extensive network of submarine fiber optic cables, s
 <a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog1_fig3.jpg" align="center"></a>
 </div>
 
+[Next Part2](https://haleyhw.github.io/web/Part2-Optical-fiber-communication-system-and-distributed-optical-fiber-sensing-system/)
+
 **Reference**
 1. [https://en.wikipedia.org/wiki/Total_internal_reflection](https://en.wikipedia.org/wiki/Total_internal_reflection)
 2. [https://www.submarinecablemap.com/](https://www.submarinecablemap.com/)
