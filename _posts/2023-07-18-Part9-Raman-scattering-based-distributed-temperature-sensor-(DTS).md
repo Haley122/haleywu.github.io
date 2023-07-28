@@ -23,6 +23,8 @@ It is important to note that Raman scattering-based distributed temperature sens
 <a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog9_fig2.jpg" align="center" width="800"></a>
 </div>
 
+[Next Part10](https://haleyhw.github.io/web/Part10-Brillouin-scattering-based-distributed-temperature-and-strain-sensor-(DTSS)/)
+
 **Reference**
 1. [https://en.wikipedia.org/wiki/Raman_scattering](https://en.wikipedia.org/wiki/Raman_scattering)
 2. Hartog A H. An introduction to distributed optical fiber sensors. CRC press, 2017.
