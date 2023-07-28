@@ -27,5 +27,7 @@ By connecting an electrical circuit to the PN junction, the photodiode can opera
 <a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog6_fig2.jpg" align="center" width="900"></a>
 </div>
 
+[Next Part7](https://haleyhw.github.io/web/Part7-Scattering-phenomena-in-optical-fiber/)
+
 **Reference**
 1. [https://en.wikipedia.org/wiki/Photoelectric_effect](https://en.wikipedia.org/wiki/Photoelectric_effect)
