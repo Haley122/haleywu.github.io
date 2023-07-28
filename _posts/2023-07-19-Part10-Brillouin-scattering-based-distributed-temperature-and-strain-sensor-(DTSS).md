@@ -10,7 +10,7 @@ The frequency and direction of the incident light and acoustic wave differ due t
 In optical fibers, the frequency difference between the incident light and Stokes or anti-Stokes scattering is equal to \\(2nV_a/\lambda)\\). As the acoustic wave in the optical fiber is influenced by both temperature and strain, the Brillouin scattering frequency shift changes accordingly.
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog10_fig1.jpg" align="center" width="700"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog10_fig1.jpg" align="center" width="800"></a>
 </div>
 
 The sensitivity of the Brillouin frequency shift to temperature and strain follows a linear relationship, and the slope represents the coefficient of the optical fiber's sensitivity to temperature and strain. Since the frequency shift is affected by both temperature and strain, addressing this cross-sensitivity is crucial.
