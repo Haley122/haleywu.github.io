@@ -21,7 +21,7 @@ With population inversion achieved, Maiman's ruby laser was primed for lasing. W
 The transmittance spectrum and emission wavelengths of ruby are depicted in the following figure. Notable absorption peaks at 400nm and 550nm can be observed. The ruby emission wavelength range is 692.7nm to 694.3nm. The key to the laser's invention lies in the process of stimulated emission. However, this alone is not sufficient. Another equally crucial element is the resonant cavity. 
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog4_fig2.jpg" align="center" width="700"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog4_fig2.jpg" align="center" width="900"></a>
 </div>
 
 **The role of resonant cavity**     
@@ -35,7 +35,7 @@ The resonant cavity also contributes to further amplifying the light. Suppose th
 In summary, the invention of a laser hinges on two essential components: the stimulated emission and the design of an efficient resonant cavity. 
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog4_fig3.jpg" align="center" width="700"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog4_fig3.jpg" align="center" width="900"></a>
 </div>
 
 **Historical stories behind laser invention**    
