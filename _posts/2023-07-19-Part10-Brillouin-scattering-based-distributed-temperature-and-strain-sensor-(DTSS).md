@@ -7,7 +7,7 @@ Brillouin scattering occurs when light interacts with acoustic phonons, which ar
 
 The frequency and direction of the incident light and acoustic wave differ due to the Doppler effect. As a result, the scattered light may have a higher or lower frequency. When the acoustic wave approaches the incident light, the scattered light has a higher frequency, known as anti-Stokes Brillouin scattering. Conversely, when the acoustic wave moves away from the incident light, the scattered light has a lower frequency, known as Stokes Brillouin scattering.
 
-In optical fibers, the frequency difference between the incident light and Stokes or anti-Stokes scattering is equal to \\(2nV<sub>a</sub>/\lambda\\). As the acoustic wave in the optical fiber is influenced by both temperature and strain, the Brillouin scattering frequency shift changes accordingly.
+In optical fibers, the frequency difference between the incident light and Stokes or anti-Stokes scattering is equal to \\(2nV_a/\lambda)\\). As the acoustic wave in the optical fiber is influenced by both temperature and strain, the Brillouin scattering frequency shift changes accordingly.
 
 <div align="center">
 <a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog10_fig1.jpg" align="center" width="700"></a>
@@ -20,7 +20,7 @@ Several methods can be used to solve this problem. One approach is to use two id
 The Brillouin spectrum provides valuable information for determining the central frequency of the Brillouin scattering and obtaining the corresponding temperature or strain information by knowing the fiber's temperature or strain coefficient. By addressing the cross-sensitivity and utilizing Brillouin scattering, optical fiber sensors can accurately and effectively measure temperature and strain for various applications.
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog10_fig2.jpg" align="center" width="700"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog10_fig2.jpg" align="center" width="800"></a>
 </div>
 
 **Reference**
