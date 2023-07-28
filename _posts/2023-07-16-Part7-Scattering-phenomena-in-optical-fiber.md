@@ -12,6 +12,8 @@ In contrast, Rayleigh scattering is not caused by light interacting with phonons
 <a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog7_fig1.jpg" align="center" width="600"></a>
 </div>
 
+[Next Part8](https://haleyhw.github.io/web/Part8-Rayleigh-scattering-based-distributed-acoustic-sensor-(DAS)/)
+
 **Reference**
 1. Krohn D A, MacDougall T, Mendez A. Fiber optic sensors: fundamentals and applications. Bellingham, WA: SPIE Press, 2014.
 
