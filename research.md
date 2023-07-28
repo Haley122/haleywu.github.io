@@ -35,7 +35,7 @@ The working principle of DTS is based on Raman scattering, which utilizes the re
 
 
 ## Talks
-"Harnessing the power of light: the journey of distributed optical fiber sensors," Chongqing University summer visit to PolyU, July 2023.      
+"Harnessing the power of light: the journey of distributed optical fiber sensors," Chongqing University Summer Visit to PolyU, July 2023.      
 
 “Optical fiber sensing applications in real-time assets health monitoring for building structures,” Webinar on Application of Automation and Technology in Construction Materials Testing, Hong Kong Council for Testing and Certification, Feb 2023.
 
