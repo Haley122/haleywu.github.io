@@ -4,8 +4,8 @@ title:
 ---
 
 
-My research focuses on the field of distributed optical fiber sensors (DOFSs) and their applications. I am interested in developing new optical fiber-based monitoring technologies. The development of new DOFSs involves a combination of advanced interrogation schemes (modulation and demodulation parts), utilizing specialty optical fibers, and designing transducers.
-Moreover, I am actively engaged in exploring data-driven signal processing methods to effectively leverage the data collected from fiber-optic-based sensors. My overarching goal is to make meaningful advancements in this area and harness the full potential of light and optical fiber, thereby creating intelligent and superior sensing solutions.
+My research focuses on the field of distributed optical fiber sensors (DOFSs) and their diverse applications. I am interested in developing new monitoring technologies based on optical fiber. The development of new DOFSs involves a combination of advanced interrogation schemes (including modulation and demodulation techniques), specialty optical fiber utilization, and transducer design.
+Additionally, I am actively engaged in exploring data-driven signal processing methods to effectively leverage the vast amount of data acquired from fiber-optic sensors. By integrating these hardware and software techniques, my overarching goal is to make advancements in this area and harness the full potential of light and optical fiber, thereby creating intelligent and superior sensing solutions.
 
 ## Distributed optical fiber sensing technologies   
 In my research, I have focused on exploring the following three distributed optical fiber sensors.
