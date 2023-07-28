@@ -8,7 +8,7 @@ Raman scattering, on the other hand, is a consequence of light interacting with 
 
 Next, Brillouin scattering is the outcome of light interacting with acoustic phonons and is also a form of inelastic scattering. However, the energy transfer in Brillouin scattering is relatively small, leading to a smaller frequency shift of around 11 GHz. Brillouin scattering is closely related to the acoustic velocity in the optical fiber, which, in turn, is influenced by both temperature and strain. Therefore, we can develop distributed temperature and strain sensors based on Brillouin scattering.
 
-By leveraging the unique characteristics of these scattering phenomena, distributed optical fiber sensors provide an effective means for measuring temperature and strain over extended distances. These sensing technologies play a vital role in various applications, including structural health monitoring, industrial process control, and environmental monitoring.
+By leveraging the unique characteristics of these scattering phenomena, distributed optical fiber sensors provide an effective means for measuring temperature and strain over extended distances. These sensing technologies play a vital role in various applications, including structural health monitoring, industrial process control, and environmental monitoring. To see some of our past projects, you can check [here](https://haleyhw.github.io/web/project/).
 
 <div align="center">
 <a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog11_fig1.jpg" align="center" width="800"></a>
