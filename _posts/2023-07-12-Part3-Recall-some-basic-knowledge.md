@@ -28,7 +28,6 @@ Atoms consist of a nucleus and orbiting electrons in discrete shells, each corre
 <a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog3_fig3.jpg" align="center" width="800"></a>
 </div>
 
-<br><br>
 In the forthcoming sections, as we explore DOFSs, we will encounter situations where light is treated as a wave when interacting with objects much larger than the light wavelength. Conversely, we will also encounter cases where both light and the object's wave-particle nature should be considered.
 
 [Next Part4](https://haleyhw.github.io/web/Part4-Principle-and-the-invention-of-laser/)
