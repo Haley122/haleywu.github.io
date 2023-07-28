@@ -10,7 +10,7 @@ In the Stokes process, when electrons are in a lower energy state, they absorb e
 On the other hand, in the anti-Stokes process, the electrons' initial energy level is higher than the final energy level. Consequently, the electrons gain energy, and the anti-Stokes wave has a higher frequency than the incident wave.
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog9_fig1.jpg" align="center" width="700"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog9_fig1.jpg" align="center" width="800"></a>
 </div>
 
 The utilization of Raman scattering in temperature measurement stems from Boltzmann's law, which states that the probability of an atom being in an energy state is proportional to \\(exp(-\varepsilon_i/kT)\\). Moreover, the ratio of atoms in energy states i and j is proportional to (exp(-(\varepsilon_i-\varepsilon_j)/kT)\\). Therefore, for two fixed energy levels i and j, at higher temperatures, a larger number of atoms will be in the higher energy level.
@@ -20,7 +20,7 @@ By considering the Stokes and anti-Stokes processes with Boltzmann's law, we fin
 It is important to note that Raman scattering-based distributed temperature sensors may not respond well to extremely low temperatures, and this can also be explained by Boltzmann's law. However, the measurement temperature range is sufficient for most industrial applications.
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog9_fig2.jpg" align="center" width="700"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog9_fig2.jpg" align="center" width="800"></a>
 </div>
 
 **Reference**
