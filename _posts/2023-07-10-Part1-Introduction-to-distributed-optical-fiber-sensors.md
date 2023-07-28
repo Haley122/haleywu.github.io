@@ -19,7 +19,7 @@ But how do distributed optical fiber sensors (DOFSs) differ from these electroni
 Let's explore an example scenario: monitoring the strain along the 50 km-long Hong Kong-Zhuhai-Macau bridge. If we were to use strain gauges with a sensor spacing of 10 meters, 5000 sensors would be required. However, by increasing the sensor spacing to 100 meters, only 500 sensors would be needed. The typical spatial resolution of DOFSs is around several meters to ten meters, this means a single optical fiber can effectively act as thousands of point sensors. Such capability stands as a major advantage of DOFS technology.
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog1_fig2.jpg" align="center" width="600"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog1_fig2.jpg" align="center" width="650"></a>
 </div>
 
 **Optical fiber**     
