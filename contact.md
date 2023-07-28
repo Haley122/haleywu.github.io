@@ -9,6 +9,7 @@ Name: WU Huan
 Email: hkpolyu.wu@polyu.edu.hk     
 Office: DE620, The Hong Kong Polytechnic University, Hung Hom, Kowloon, Hong Kong      
 Tel: (+852) 2766 6247
+Languages: English, Mandarin, Cantonese - All welcome!
 
 ![contact](assets/contact.jpg)
 
