@@ -19,7 +19,7 @@ The working principle of DAS is based on the phase-sensitive OTDR that utilizes 
 
 <br><br>
 #### 2. Distributed temperature and strain sensing (DTSS)     
-The working principle of DTSS is based on the stimulated Brillouin scattering that utilizes the linear relationship of Brillouin frequency shift and temperature/strain. A DTSS system that can realize temperature/strain sensing along 50 km optical fiber was built in our lab.Check out the [basic principle of DTSS](https://haleyhw.github.io/web/Part10-Brillouin-scattering-based-distributed-temperature-and-strain-sensor-(DTSS)/)
+The working principle of DTSS is based on the stimulated Brillouin scattering that utilizes the linear relationship of Brillouin frequency shift and temperature/strain. A DTSS system that can realize temperature/strain sensing along 50 km optical fiber was built in our lab. Check out the [basic principle of DTSS](https://haleyhw.github.io/web/Part10-Brillouin-scattering-based-distributed-temperature-and-strain-sensor-(DTSS)/)
 
 <div align="center">
 <a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/DTSS_new.jpg" align="center" width="750"></a>
@@ -27,7 +27,7 @@ The working principle of DTSS is based on the stimulated Brillouin scattering th
 
 <br><br>
 #### 3. Distributed temperature sensing (DTS)     
-The working principle of DTS is based on Raman scattering, which utilizes the relationship between Stokes and anti-Stokes intensities and temperature. In our lab, we have built a DTS system capable of realizing temperature sensing along a 10 km optical fiber in our lab. Check out the [basic principle of DTS](https://haleyhw.github.io/web/Part9-Raman-scattering-based-distributed-temperature-sensor-(DTS)/)
+The working principle of DTS is based on Raman scattering, which utilizes the relationship between Stokes and anti-Stokes intensities and temperature. In our lab, we have built a DTS system capable of realizing temperature sensing along a 10 km optical fiber. Check out the [basic principle of DTS](https://haleyhw.github.io/web/Part9-Raman-scattering-based-distributed-temperature-sensor-(DTS)/)
 
 <div align="center">
 <a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/DTS_new.jpg" align="center" width="750"></a>
