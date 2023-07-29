@@ -3,9 +3,9 @@ title: "Part10-Brillouin scattering based distributed temperature and strain sen
 mathjax: true
 layout: post
 ---
-Brillouin scattering occurs when light interacts with acoustic phonons, which are material waves describing the vibrations of atoms affected by mechanical waves. When a pressure wave propagates through the material, it causes certain areas to compress and others to expand, creating a repeating pattern. When light interacts with this pressure wave or acoustic wave, it scatters light in a specific direction and frequency governed by momentum conservation.
+Brillouin scattering occurs when light interacts with acoustic phonons, which are material waves describing the vibrations of atoms affected by mechanical waves. When a pressure wave propagates through the material, it causes certain areas to compress and others to expand, and the pattern repeats over and over. When light interacts with this pressure wave or acoustic wave, it scatters light in a specific direction and frequency, governed by momentum conservation.
 
-The frequency and direction of the incident light and acoustic wave differ due to the Doppler effect. As a result, the scattered light may have a higher or lower frequency. When the acoustic wave approaches the incident light, the scattered light has a higher frequency, known as anti-Stokes Brillouin scattering. Conversely, when the acoustic wave moves away from the incident light, the scattered light has a lower frequency, known as Stokes Brillouin scattering.
+The frequency and direction of the incident light and acoustic wave differ. According to the Doppler effect, the scattered light may have a higher or lower frequency. When the acoustic wave approaches the incident light, the scattered light has a higher frequency, known as anti-Stokes Brillouin scattering. Conversely, when the acoustic wave moves away from the incident light, the scattered light has a lower frequency, known as Stokes Brillouin scattering.
 
 In optical fibers, the frequency difference between the incident light and Stokes or anti-Stokes scattering is equal to \\(2nV_a/\lambda)\\). As the acoustic wave in the optical fiber is influenced by both temperature and strain, the Brillouin scattering frequency shift changes accordingly.
 
