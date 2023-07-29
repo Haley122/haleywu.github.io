@@ -35,3 +35,4 @@ By connecting an electrical circuit to the PN junction, the photodiode can opera
 
 **Reference**
 1. [https://en.wikipedia.org/wiki/Photoelectric_effect](https://en.wikipedia.org/wiki/Photoelectric_effect)
+2. [https://www.shindengen.com/products/semi/column/basic/semi/semi_basic.html](https://www.shindengen.com/products/semi/column/basic/semi/semi_basic.html)
