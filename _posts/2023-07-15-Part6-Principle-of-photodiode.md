@@ -28,7 +28,7 @@ When a N-type semiconductor and a P-type semiconductor are brought together, a P
 By connecting an electrical circuit to the PN junction, the photodiode can operate. In a positive bias, the electrical field from the external circuit partially cancels out the internal field, reducing the width of the depletion region. Conversely, a reverse bias increases the width of the depletion region. When light is directed onto the depletion region in the reverse bias condition, electron-hole pairs are separated and guided by the electrical field. The directed movement of electrons forms the current and is called photocurrent in this case.
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog6_fig3.jpg" align="center" width="400"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog6_fig3.jpg" align="center" width="450"></a>
 </div>
 
 [Next Part7](https://haleyhw.github.io/web/Part7-Scattering-phenomena-in-optical-fiber/)
