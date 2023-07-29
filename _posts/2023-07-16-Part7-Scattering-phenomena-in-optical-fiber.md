@@ -9,7 +9,7 @@ When light interacts with optical phonon, it induces Raman scattering. Raman sca
 In contrast, Rayleigh scattering is not caused by light interacting with phonons. Instead, it occurs when light encounters irregularities in the material. For example, quartz and glass are both made of silicon dioxide, but their atomic structure differs. Quartz has a well-ordered atomic structure, while glass has a disordered atomic structure. When glass is cooled from its liquid state to its solid state, the disordered structure is fixed, leading to irregularities that induce small refractive index differences between different places in the material. This causes Rayleigh scattering to occur. However, in high-purity quartz, Rayleigh scattering is greatly reduced.
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog7_fig1.jpg" align="center" width="800"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog7_fig1.jpg" align="center" width="700"></a>
 </div>
 
 [Next Part8](https://haleyhw.github.io/web/Part8-Rayleigh-scattering-based-distributed-acoustic-sensor-(DAS)/)
