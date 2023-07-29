@@ -12,9 +12,9 @@ Now, let's shift our focus to the DOFSs system, as illustrated in the right part
 
 * In DOFSs, as we don't need to transmit signals over long distances, only a laser diode and a photodiode are required for sensing purposes.
 
-* Unlike traditional optical fiber communication, where light is transmitted forward, DOFSs utilize backscattered light. Consequently, both the laser and photodiode are located on the same side of the optical fiber.
+* Unlike traditional optical fiber communication, where forward transmitted light is utilized, DOFSs use backscattered light. Consequently, both the laser and photodiode are located on the same side of the optical fiber.
 
-You may wonder how DOFSs achieve sensing capabilities. It all relies on three scattering phenomena within the optical fiber: Rayleigh scattering, Raman scattering, and Brillouin scattering. The intensity, frequency, and phase of the scattered light are affected by external factors such as temperature, strain, and vibration. As a result, by demodulating the intensity, frequency, and phase of the backscattered light, we can accurately derive the external parameters.
+You may wonder how DOFSs achieve sensing capabilities with the backscattered light. It all relies on three scattering phenomena within the optical fiber: Rayleigh scattering, Raman scattering, and Brillouin scattering. The intensity, frequency, and phase of the scattered light are affected by external factors such as temperature, strain, and vibration. As a result, by demodulating the intensity, frequency, and phase of the backscattered light, we can accurately derive the external parameters. We will explain each scattering phenomenon in the following parts.
 
 
 [Next Part3](https://haleyhw.github.io/web/Part3-Recall-some-basic-knowledge/)
