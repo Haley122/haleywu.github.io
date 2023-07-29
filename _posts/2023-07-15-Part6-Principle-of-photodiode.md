@@ -14,7 +14,7 @@ Theoretically, a metal plate could serve as a photodiode; however, it would only
 <a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog6_fig1.jpg" align="center" width="500"></a>
 </div>
 
-**PN Junctions**     
+**PN junctions**     
 Semiconductors, a class of materials lying between conductors and insulators, provide the foundation for modern electronics. Silicon, a widely used semiconductor, has 14 electrons and 4 electrons are in its outermost shell. When it crystallizes, each silicon atom shares its outermost electrons, therefore, it seems every atom has eight electrons in its outermost shell. This balanced state results in low conductivity for pure silicon.
 
 However, by introducing specific atoms, such as phosphorus (P) or boron (B), into the silicon crystal, we can modify its conductivity. Phosphorus (P), with five outer shell electrons, creates an excess electron in the crystal, giving rise to an N-type semiconductor. On the other hand, boron (B), with three outer shell electrons, generates 'holes' where electrons are effectively missing, making it a P-type semiconductor. Despite their differing conductivities, both N-type and P-type semiconductors maintain electrical neutrality with equal numbers of electrons and protons. 
