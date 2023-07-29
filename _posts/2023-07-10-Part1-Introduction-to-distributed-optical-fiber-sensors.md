@@ -28,8 +28,13 @@ You may already have some familiarity with optical fiber. The optical fiber you 
 The map below shows the extensive network of submarine fiber optic cables, spanning over 1.2 million kilometers and facilitating global interconnection update to 2022. Please note that this map specifically represents submarine cables and does not include the vast network of optical fiber laid underground and connected to homes. Nevertheless, it vividly illustrates the widespread utilization of optical fiber worldwide. As a result, another noteworthy aspect of DOFSs is their ability to harness these extensive fiber-optic cables for sensing purposes. By connecting these world-wide fiber-optic networks with [DOFS interrogators](https://haleyhw.github.io/web/research/), we can turn the communication infrastructure into a global-scale sensing system. 
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog1_fig3.jpg" align="center"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog1_fig3.jpg" align="center" width="500"></a>
 </div>
+
+<div align="center">
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog1_fig4.jpg" align="center" width="500"></a>
+</div>
+
 
 [Next Part2](https://haleyhw.github.io/web/Part2-Optical-fiber-communication-system-and-distributed-optical-fiber-sensing-system/)
 
