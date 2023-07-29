@@ -11,7 +11,7 @@ The phenomenon occurs when light illuminates a metal plate, causing electrons to
 Theoretically, a metal plate could serve as a photodiode; however, it would only be effective for very high frequencies, such as ultraviolet light. With the advent of semiconductor technology, scientists utilized the unique properties of PN junctions to create photodiodes with broader light wavelength ranges.
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog6_fig1.jpg" align="center" width="450"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog6_fig1.jpg" align="center" width="500"></a>
 </div>
 
 **PN Junctions**     
@@ -20,7 +20,7 @@ Semiconductors, a class of materials lying between conductors and insulators, pr
 However, by introducing specific atoms, such as phosphorus (P) or boron (B), into the silicon crystal, we can modify its conductivity. Phosphorus (P), with five outer shell electrons, creates an excess electron in the crystal, giving rise to an N-type semiconductor. On the other hand, boron (B), with three outer shell electrons, generates 'holes' where electrons are effectively missing, making it a P-type semiconductor. Despite their differing conductivities, both N-type and P-type semiconductors maintain electrical neutrality with equal numbers of electrons and protons. 
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog6_fig2.jpg" align="center" width="600"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog6_fig2.jpg" align="center" width="500"></a>
 </div>
 
 When a N-type semiconductor and a P-type semiconductor are brought together, a PN junction is formed. Electrons from the N-type region migrate to the P-type region due to diffusion, where they combine with holes. This combination establishes an electrical field between the two regions, forming a depletion region with no mobile charge carriers. 
@@ -28,7 +28,7 @@ When a N-type semiconductor and a P-type semiconductor are brought together, a P
 By connecting an electrical circuit to the PN junction, the photodiode can operate. In a positive bias, the electrical field from the external circuit partially cancels out the internal field, reducing the width of the depletion region. Conversely, a reverse bias increases the width of the depletion region. When light is directed onto the depletion region in the reverse bias condition, electron-hole pairs are separated and guided by the electrical field. The directed movement of electrons forms the current and is called photocurrent in this case.
 
 <div align="center">
-<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog6_fig3.jpg" align="center" width="450"></a>
+<a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog6_fig3.jpg" align="center" width="500"></a>
 </div>
 
 [Next Part7](https://haleyhw.github.io/web/Part7-Scattering-phenomena-in-optical-fiber/)
