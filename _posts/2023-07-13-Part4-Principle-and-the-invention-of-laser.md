@@ -9,7 +9,7 @@ Laser, stands for Light Amplification by Stimulated Emission of Radiation. The n
 <a href="url"><img src="https://raw.githubusercontent.com/haleywuhuan/profile/master/assets/blog4_fig1.jpg" align="center" width="700"></a>
 </div>
 
-**The Invention of Laser**     
+**The invention of laser**     
 When Einstein initially proposed the theory of stimulated emission, he could hardly imagine the groundbreaking invention it would lead to. It was not until 1960 that Theodore H. Maiman constructed the world's first laser, using a synthetic ruby crystal as the gain medium. This invention marked the birth of the laser age and revolutionized various fields of science, medicine, communications, and industry. 
 
 Maiman's pioneering device, known as the ruby laser, was a masterpiece of engineering. Ruby is a three-level energy system, simplied in the diagram below. Within the ruby crystal, there were \\(N1\\)electrons in the \\(E1\\) state, \\(N2\\) electrons in the \\(E2\\) state, and \\(N3\\) electrons in the \\(E3\\) state. Under normal conditions, the majority of electrons resided in the lower energy state, \\(E1\\), with only a few in the higher energy states, \\(E2\\), \\(E3\\).
