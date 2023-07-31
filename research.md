@@ -47,7 +47,7 @@ Project: Consultancy study on distributed fiber optic system for leak detection 
 **Reviewer** for Optics Express, Photonics Journal, Journal of Lightwave Technology, Optics and Lasers in Engineering
 
 ## Publications
-1. __H. Wu__, H. F. Duan, Wallace Lai, K. Zhu, X. Cheng, H. Yin, B. Zhou, C. C. Lai, C. Lu, and X. L. Ding. “Leveraging optical communication fiber and AI for distributed water pipe leak detection,” IEEE Communications Magazine, to appear.  <a href="https://haleywuhuan.github.io/profile/assets/paper1.pdf" target="_blank"> full paper</a>
+1. __H. Wu*__, H. F. Duan, Wallace Lai, K. Zhu, X. Cheng, H. Yin, B. Zhou, C. C. Lai, C. Lu, and X. L. Ding. “Leveraging optical communication fiber and AI for distributed water pipe leak detection,” IEEE Communications Magazine, to appear.  <a href="https://haleywuhuan.github.io/profile/assets/paper1.pdf" target="_blank"> full paper</a>
 
 2. H. Zheng, __H. Wu*__, C. Y. Leong, Y. Y. Wang, X. L. Shen, Z. Fang, X. Chen, J. X. Cui, D. J. Ma, Y. Miao, L. Zhou, M. Yan, J. Sun, H. Y. Tam, X. L. Ding, C. Lu. “Enhanced quasi-distributed accelerometer array based on phase-OTDR and ultraweak fiber Bragg grating,” IEEE Sensors Journal, early access, 2023.<a href="https://haleywuhuan.github.io/profile/assets/paper2.pdf" target="_blank"> full paper</a>
 
